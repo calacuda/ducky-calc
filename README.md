@@ -16,4 +16,4 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 ## Project Status
 
-I would classify this project as in the "Minimum Viable Product" stage.
+I would classify this project as a "Minimum Viable Product." It's got some quirks but it works!
