@@ -1,0 +1,3 @@
+Linux RickRoll
+opens the a terminal and runs a command to open
+the rick-roll in a browser tab

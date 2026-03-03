@@ -1,0 +1,6 @@
+GUI ENTER
+DELAY 2000
+STRINGLN firefox --new-window 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' && exit
+DELAY 2500
+STRING k
+
