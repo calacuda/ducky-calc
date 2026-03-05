@@ -1,4 +1,4 @@
-<img src="./assets/demo.big.gif" alt="Demo GIF" width="100%" height="100%"/>
+<img src="./assets/demo.gif" alt="Demo GIF" width="100%" height="100%"/>
 
 # DuckyCalc
 
