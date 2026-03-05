@@ -10,7 +10,7 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 The above GIF demostrates the following ducky script:
 
-```duckyscript
+```ducky
 GUI ENTER
 DELAY 2000
 STRINGLN firefox --new-window 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' && exit
@@ -26,7 +26,7 @@ this script:
 4. wait for the tab to open,
 5. finally press the "K" key (a youtube specififc shortcut) to play the video. 
 
-## Folder Structure
+## Project Folder Structure
 
 | **Directory** | **Whats There** |
 |----|----|
