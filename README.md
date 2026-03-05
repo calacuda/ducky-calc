@@ -10,13 +10,13 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 The above GIF demostrates the following ducky script:
 
-```ducky
-GUI ENTER
-DELAY 2000
-STRINGLN firefox --new-window 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' && exit
-DELAY 2500
-STRING k
-```
+> ```duckyscript
+> GUI ENTER
+> DELAY 2000
+> STRINGLN firefox --new-window 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' && exit
+> DELAY 2500
+> STRING k
+> ```
 
 this script:
 
