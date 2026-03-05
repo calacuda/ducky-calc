@@ -1,14 +1,12 @@
+<img src="./assets/demo.gif" alt="Demo GIF" width="100%" height="100%"/>
+
 # DuckyCalc
 
 Hardware [ducky-script](https://docs.hak5.org/hak5-usb-rubber-ducky/duckyscript-quick-reference/) interpreter that runs on a [ClockworkPi PicoCalc](https://www.clockworkpi.com/picocalc).
 
 This project allows selecting from multiple ducky script payloads to inject keystrokes into a target computer.
 
-## Demo Video
-
-<img src="./assets/demo.gif" alt="Demo GIF" width="100%" height="100%"/>
-
-The above GIF demostrates the following ducky script:
+The above GIF demostrates the DuckyCalc running the following ducky script:
 
 > ```duckyscript
 > GUI ENTER
