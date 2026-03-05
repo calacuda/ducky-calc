@@ -6,6 +6,8 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 ## Demo Video
 
+![Demo Gif](./assets/demo.gif)
+
 ## Folder Structure
 
 | **Directory** | **Whats There** |
