@@ -18,7 +18,7 @@ The above GIF demostrates the following ducky script:
 > STRING k
 > ```
 
-this script:
+This script takes the following actions:
 
 1. launches a terminal by pressing "Window key" and "enter/return",
 2. waits for the terminal to launch,
