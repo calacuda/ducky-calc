@@ -8,7 +8,7 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 <img src="./assets/demo.gif" alt="DEMO GIF" width="80%" height="80%"/>
 
-This GIF demostrates the following ducky script:
+The above GIF demostrates the following ducky script:
 
 ```duckyscript
 GUI ENTER
@@ -17,6 +17,14 @@ STRINGLN firefox --new-window 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' && e
 DELAY 2500
 STRING k
 ```
+
+this script:
+
+1. launches a terminal by pressing "Window key" and "enter/return",
+2. waits for the terminal to launch,
+3. runs a command to firefox to open a new new-window in firefox with a youtube link and close the terminal,
+4. wait for the tab to open,
+5. finally press the "K" key (a youtube specififc shortcut) to play the video. 
 
 ## Folder Structure
 
