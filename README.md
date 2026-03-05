@@ -6,7 +6,7 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 ## Demo Video
 
-<img src="./assets/demo.gif" alt="DEMO GIF" width="80%" height="80%"/>
+<img src="./assets/demo.gif" alt="Demo GIF" width="100%" height="100%"/>
 
 The above GIF demostrates the following ducky script:
 
