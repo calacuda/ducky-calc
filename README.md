@@ -6,8 +6,17 @@ This project allows selecting from multiple ducky script payloads to inject keys
 
 ## Demo Video
 
-<!-- ![Demo Gif](./assets/demo.gif) -->
 <img src="./assets/demo.gif" alt="DEMO GIF" width="80%" height="80%"/>
+
+This GIF demostrates the following ducky script:
+
+```duckyscript
+GUI ENTER
+DELAY 2000
+STRINGLN firefox --new-window 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' && exit
+DELAY 2500
+STRING k
+```
 
 ## Folder Structure
 
